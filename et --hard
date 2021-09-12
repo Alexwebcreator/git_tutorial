@@ -1,0 +1,15 @@
+*   75105fa 2021-09-12 | Merged master fixed conflict. (HEAD -> style) [Alexwebcreator]
+[31m|[m[32m\[m  
+[31m|[m * eac3dfb 2021-09-12 | Life is great! (master) [Alexwebcreator]
+* [32m|[m a673516 2021-09-12 | Merge branch 'master' into style [Alexwebcreator]
+[33m|[m[32m\[m[32m|[m 
+[33m|[m * 97a50c8 2021-09-12 | Added README [Alexwebcreator]
+* [34m|[m e52cc0a 2021-09-12 | Hello uses style.css [Alexwebcreator]
+* [34m|[m 733cc92 2021-09-12 | Added css stylesheet [Alexwebcreator]
+[34m|[m[34m/[m  
+* d600652 2021-09-12 | Moved hello.html to lib [Alexwebcreator]
+* 3fa8731 2021-09-12 | Add an author/email comment [Alexwebcreator]
+* 4279483 2021-09-12 | Added HTML header (tag: v1) [Alexwebcreator]
+* d893f12 2021-09-12 | Added standart HTML page tags (tag: v1-beta) [Alexwebcreator]
+* 5f158a3 2021-09-12 | Added h1 tag [Alexwebcreator]
+* c07632f 2021-09-12 | First Commit [Alexwebcreator]
